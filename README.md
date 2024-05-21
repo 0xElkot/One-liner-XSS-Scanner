@@ -1,4 +1,4 @@
-# One-liner-XSS-Scanner-
+# One-liner-XSS-Scanner
 This is a collection of commands that's help you to find XSS via automation.
 
 ## Via Bash Script
