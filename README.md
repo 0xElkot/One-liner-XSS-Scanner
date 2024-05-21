@@ -1,7 +1,7 @@
 # One-liner-XSS-Scanner-
 This is a collection of commands that's help you to find XSS via automation.
 
-##Via Bash Script
+## Via Bash Script
 ### Tools:
 > [Kxss](https://github.com/Emoe/kxss) : To find reflected values.
 
@@ -48,4 +48,4 @@ echo http://testphp.vulnweb.com | gau | gf xss | uro  |qsreplace '"><svg onload=
 
 
 
-*You can Read the full methodology here at [Medium](https://0xelkot.medium.com/advanced-xss-discovery-streamlining-your-attack-strategy-with-cutting-edge-automation-tools-88cfd0f68c8e)*
+## *You can Read the full methodology here at [Medium](https://0xelkot.medium.com/advanced-xss-discovery-streamlining-your-attack-strategy-with-cutting-edge-automation-tools-88cfd0f68c8e)*
