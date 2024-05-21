@@ -3,12 +3,18 @@ This is a collection of commands that's help you to find XSS via automation.
 
 ##Via Bash Script
 ### Tools:
-> [Kxss](https://github.com/Emoe/kxss) : To find reflected values.\n
-> [uro](https://github.com/s0md3v/uro): Declutters url lists for crawling.\n
-> [gf](https://github.com/tomnomnom/gf): A wrapper around grep, to help you grep for things.\n
+> [Kxss](https://github.com/Emoe/kxss) : To find reflected values.
+
+> [uro](https://github.com/s0md3v/uro): Declutters url lists for crawling.
+
+> [gf](https://github.com/tomnomnom/gf): A wrapper around grep, to help you grep for things.
+
 > [qsreplace](https://github.com/tomnomnom/qsreplace): To replace all query string values with a user-supplied value.
+
 > [Freq](https://github.com/takshal/freq): To find alert values.
+
 > [airixss](https://github.com/ferreiraklet/airixss): To find XSS during recon.
+
 > [dalfox](https://github.com/hahwul/dalfox) : It’s a powerfull XSS scanner.
 
 ## First Case
